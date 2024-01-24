@@ -1,0 +1,1 @@
+"# JAVASQLITE"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Anachi4NDR1A/JAVASQLITE.gitgit push -u origin main
